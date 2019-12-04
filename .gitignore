@@ -16,3 +16,4 @@ lerna-debug.log
 .DS_Store
 yarn-error*
 .rpt2_cache
+/.changelog

@@ -2,6 +2,10 @@
   "name": "rooks",
   "private": true,
   "description": "Useful React hooks for everyone.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imbhargav5/rooks.git"
+  },
   "scripts": {
     "clean": "lerna clean",
     "lint": "lerna run lint --stream --parallel",
